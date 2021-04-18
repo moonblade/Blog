@@ -27,7 +27,7 @@ url: "http://moonblade.github.io" # the base hostname & protocol for your site, 
 github_username:  moonblade
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
