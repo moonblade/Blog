@@ -1,0 +1,187 @@
+---
+title: "telekinesis"
+date: 2021-05-02
+tags: []
+---
+
+- Want to go down this road? I'll tell you my imaginary journey with telekinesis
+- the one thats too shitty to write
+- so one day I get powers
+- ladeeda
+- and experiment with it till I have normal level tk
+- can move objects and stuff
+- as big as car, as many as ten etc etc
+- interesting enough
+- But since I get power, immediate secret mode
+- tell noone
+- not even closest firneds or family
+- then you practice with it till you get to the next tier
+- which is passive survellaince
+- which is kind of a bubble of telkinesis that can sense but not hinder
+- now your perception is 360 degree
+- now that perception is unlocked you go for size
+- the human fingertip can sense micron thick indentations just by rubbing our finger over a surface
+- so pretty sure your power could do better
+- so you get to that level where you can interact with proteins, but not molecules or atoms yet
+- but this is good enough for now
+- you learn that friction within an item cause fire
+- tada now you have pyrokinessis
+- ya you'd have to be an idiot to not have worked out flight by now
+- and force fields
+- and force fielding a cone ahead of you for supersonic flight
+- Now you have minor super villian levels of power
+- but what do you do, you still keep quiet
+- because you're quiet mortal
+- you switch fields and go into microbiology
+- You learn about the body
+- Your power is still shit so it can't do finer stuff, so for the time being you learn which nerves to pinch for instant paralysis and which blood vessels to cut for a victim to die in x hours. and you realize since your power and by extension your power works inside peoples bodies, there is no reason that youll be implicated
+- so you also start studying acting as a hobby
+- so that you can impersonate a bystander well
+- your reactions are exquisite
+- noone would know who the attacker is, just somoene dying and others panicking
+- perfect
+- meanwhile your powers have gotten good enough that you can now sense and manipulate at the molecular level
+- you begin experimenting on mice
+- and try all the new techniques in microbiology that are prohibitively expensive because the equipment is hard to get
+- you dont need equipment
+- you are the tool
+- so you study and do experiment on mice
+- untill you learn how to cure aging
+- then you keep experimenting up to monkeys and then random homeless people
+- untill yo're sure it works
+- and then you try it on yourself, keeping extra cautios to not have any episodes by operating on yoursel
+- f
+- now you have a method to keep yourself young
+- you're functionaly amortal
+- but you're still a weak meatbag and can die if hit hard enough
+- thankfully you've practiced keeping a skintight forcefield on even in your sleep
+- you're now a tier 2 supervillian
+- able to tank through most stuff and appear victorius
+- but that is for chums
+- You keep quiet so that people in lab coats dont needle you and stick you in an airless room for the rest of time
+- you increase your powers more
+- untill you can work at the atomic level
+- you realize though you can control one atom or one photon, trying to control more is basically impossible
+- so you shift fields again
+- now that you're amortal you have time
+- you shift into neural networks and human computer interfaces
+- you take your microbiology degree and you combine it with the newest ai
+- so that you make supercomputer level ai that acts on your command and doesn't go out of control with multiple fail safes to deactivate it
+- and then you try out alimited version of the ai on some unsuspecting human giving him money and givng the ai some innocous name like neuralink or some shit
+- then you study that individual for a time
+- once you're sure the ai is behaving fine, you kill him
+- then you inject the same thing in your brain
+- now you have data processing capabilities
+- now you can take on the task of turning invisible, the hard way
+- we dont want to change material properties and reflect light, noo thats too easy
+- we instead capture each photo as it arrives on us, process it so that we have color 360 vision, then trasmit a copy of it on the other side
+- so we're invisible, but we have 360 color vision + our earlier force sense as well
+- with this setup, its easy to create an avatar
+- create a forcefield, create a seperate material over it to transmit colors instead of hiding it
+- add heat signature inside
+- add different densities of force fields to simulate bones
+- so that simple xrays and heat scanners dont think anything is amiss
+- now you're tier 3 supervillian material
+- But you hold off on the rampage
+- because you still need to be near the damn thing
+- so you test it out
+- but you dont be a stupid asshat and test it on your own local community, no you take a trip to some random place
+- and three quarters of the way into your month long trip you try out the experiment
+- you make an avatar a half a block away, you can go crazy on the aesthetics here, even make a godzilla or some shit if you want, you dont do the dumb rookie shit of holding out your hand like some kind of idiot
+- your power is PSYCHO kinesis, not hand kinesis
+- you dont stick out your hand
+- and your acting training kicks in
+- and you run with the other onlookers
+- while the avatar is wrecking havoc behind you
+- see what the locl law enforcement does
+- it will take them around 8 mins to mobilise units and more to get lethal arms involved (unless you're in freedomland)
+- then fizzle out the avatar and call the test a success
+- then stay some more time, dont leave immeidate
+- go through questioning and witness interviews that the press will conduct
+- this is the last time you'll be doing those
+- then its back to your home country and back to trainig
+- make your area of effect wider
+- wider still
+- even wider still
+- untill you're able to ideally cover the solar system, but for now covering the globe or even half of it is fine
+- You're essentially god at this point and a tier 5 villain for those keeping track
+- but you haven't unvieled your dastardly plan yet
+- at this point your implant has gone through multiple revisions to be able to crunch this amount of data
+- and you should be powerful enough to create multiple avatars
+- Since you're starting out, you start with morals and create a superhero to try out stuff
+- and you quickly realize that there isn't enough interesting stuff happening, wherever you deploy the first avatar
+- you try shifting him around to different countries, same shit
+- there are regular armed robberies and if you interfere you just get blamed as well
+- so you quit that and go back to the drawing board
+- you try villain avatars
+- and it goes too well
+- you break into a bank and wait for the cops to show up, then you walk over to the safe and break it and take the cash into comic book sacks with dollar signs on them, and walk out
+- the police fire at you and nothing happens
+- its too easy, like taking candy from a baby and you lose interest in that as well
+- so you create both the villain and the hero and then fight
+- avoiding casualities but destroying removable objects like posts and signs and decorations, but not destroying roads and stuff, making the cleanup crew happy
+- but it loses its fun within weeks, so you try to see how complex you can make it
+- and weave a narrative
+- of a team of heros and a lone supervillian
+- each of the heros with a fatal weakness and some superpowers
+- iceman with powers of cryokinesis, able to freeze anything hes close to
+- but hes deathly afraid of snakes
+- powergirl with super strength but too bad she can't operate when theres plutonium nearby, which nobody knew until she was called to disarm a bomb
+- and frankly ridiculous super heros like fishman who needs to wear a tank of water around his neck to breath
+- and you make a supervillian as well, hes the genius type that doesn't have too much powers other than being super hard to kill
+- then you stage fights between them
+- the genius villian slowly discovering the others secrets one by one
+- and deafeating each in turn
+- and finally when he's about to win, powergirl lets out a scream of defiance and despite the plutonium nearby shatters his ribs killing him.
+- thus ending that saga as well, but you're still bored
+- so you turn to altruism instead
+- you realize that the common denominator in rich contries is energy
+- so you device a functioning portal, which is just a pair of rings with a subroutine on your ai if object passing through ring two, move object to ring one
+- and you gift it anonymously to multple countries
+- they use it to build a generator with falling heavy metallic balls and free electricity is now common
+- you turn to the issue of climate change, its getting hotter
+- your ai is good enough to be able to process the stable population of fifteen billions needs at this point, so you quite literally take a turn as god
+- and try an anonymous gift again, with a flat piece of plastic base with a maps search, and based on access moving you from current location to point you searched for
+- its a bit more coding but you're having fun
+- so you make that as well
+- now people use it, the only thing identifying a flying device is the phone at the front with the search bar
+- so they mass produce ultralights in different forms and call it personal and mass commute vehicls
+- now you're removed a lot of emissions
+- you go about reforesting the avialbale space inclduing the tops of most buildings
+- you reveal another avatar as the inventor of the ultralight andthe free energy device
+- that avatar is human enough that he immediately gets death threats because of big oil or big energy ,whichever fields you upsets
+- you take down the names of hte people with the threat and have late night conversations with them some reforming their ways and others never seeing the light of day
+- You realize that you wont babysit humanity for long
+- so as the inventor, you start becoming famous
+- famous enough that your word matters
+- you proclaim that the free energy device will fail soon and we need to consider it as a transitional energy source
+- not the end product
+- so you gather up a team of scientists
+- you change field again into physics
+- learn the cutting edge of stuff
+- and help invent the fusion reactor stabilization mechanism at room temperature and also miniaturizing the entire thing
+- they dont suspect that the reason for your success is just having more time
+- while your avatar ages, they keep praising you
+- Most countries adopt fusion power
+- and the portals stop working
+- With cheap, almost free fusion power, you work on flight drives and navigation cluster ai's
+- determined not to make the mistake of the 20th century to allow humans control over their ride again
+- so you perfec the ai cluster first and then make the flight drives
+- and you release that into the wild, replacing the ultralights with the new fusion driven models
+- and phase out the worlds dependance on you
+- going the extra mile, you device a new cassimir effect reactor to generate larger amounts of power in a smaller area
+- now you think that humanity will make it longer and you're free to roam the systems
+- but you're still a meatbag needing the fluids and the solids
+- going to other systems is outside your coverage area right now
+- so you need to physically go there
+- so you reasearch some more and invent passive brain mapping device, to map your brain as informatin into a drive
+- but to your dismay you figure out that the telekinetic ability is wired into your wetware and not your information
+- so your clone is now just a regular long lived immortal cloud being without telekinesis
+- it takes him a while to get used to not having the power
+- But you always think in the back of your mind that he might come for you one day, so unable to sustain the paranoia you kill him off
+- and decide to venture out into the systems with the other humans
+- so you occupy your time by learning more
+- and by doing what others would call high adrenaline activites, but you're safe as kittens, since you're bored most of the time you even use your real body now
+- You eventually get bored enough to end it all, and you try to kill yourself. But you aren't able to. 
+- You curse your past self for adding a fail safe so that killing yourself requires a confirmation every decade for 5 consecutive decades. so you say to yourself you'll wait 50 more years, whats the big deal
+- but 10 years later you have changed your mind, you no longer want to die because you found something new that interests you, sociology
