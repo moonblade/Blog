@@ -222,8 +222,7 @@ tags: []
 -  and the generation ship to alpha century hasn't even reached the oort cloud yet
 -  You settle in neptune and throw yourself into ship design
 -  inventing the curvature propulsion drive to travel faster than light
--  You being more cavalier with your life, go on the first expedition to alpha century
--  centauri*
+-  You being more cavalier with your life, go on the first expedition to alpha centauri
 -  with the quirk of super luminal space, you still take 4 years in sub luminal time to reach alpha centauri, although its only 2 months for you.
 -  Your test is a success but there is no supplies yet
 -  so you journey back, and build a bigger station and ship for the first wave of settlers
