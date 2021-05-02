@@ -185,3 +185,54 @@ tags: []
 - You eventually get bored enough to end it all, and you try to kill yourself. But you aren't able to. 
 - You curse your past self for adding a fail safe so that killing yourself requires a confirmation every decade for 5 consecutive decades. so you say to yourself you'll wait 50 more years, whats the big deal
 - but 10 years later you have changed your mind, you no longer want to die because you found something new that interests you, sociology
+-  You get into social engineering
+-  you remember your first attempt at control
+-  by making a force field around a person and controlling their limbs
+-  laughable
+-  you remember how you learned to read a person for as little as five minutes to be able to determine their motor control neurons and fire them at will, controlling them a bit better
+-  but thats old news
+-  you want to control people that they dont even know they are being controlled
+-  you brush up on your machievellianism
+-  you take up all the influence courses you can find, using it at every oppurtunity, including reciprocation, concession, authority, and sicerity to its fullest effect
+-  but that is not what you're looking for
+-  you want inception
+-  you want them to be the bearer of their own idea
+-  you get into research again, you find how to map the brain to extract thoughts with little calibration
+-  you try it out on people and are able to extract thoughts directly out of the mind with just electrical signals
+-  and all you need is a five minute conversation with them for calibration to occur
+-  but you see that it doesn't work with half the population
+-  you dont understand why
+-  you try and you try and you can't get the calibration to work correctly via conversation
+-  and you hit upon the answer
+-  subvocalization
+-  they dont think their words, they think in images
+-  but this is so foreign to you that you're not able to comprehend it
+-  so you try to create a sandbox version of yourself in your mind to study
+-  and find an approach that might work, movies
+-  movies dont involve creation
+-  but they do involve reception, which invokes the same areas
+-  by this you can calibrate them by showing some videos, or by simulating their environment in real time for five minutes
+-  and so you're now able to inject ideas directly
+-  you're able to create a bubble around you by letting others think it was their idea to walk around you in a wider arc, you're able to make flesh and blood beings fight each other in spandex all the while thinking they are heros
+-  You think about your past and the stuff you did with avatars
+-  you have better avatars now
+-  you are quite literally god at this point, but you're bored within some time
+-  again trying to kill yourself, again thanking your former self for setting the timer higher into the centuries now since decades pass like seconds to you
+-  Humans still only have gotten as far as the kuiper belt
+-  and the generation ship to alpha century hasn't even reached the oort cloud yet
+-  You settle in neptune and throw yourself into ship design
+-  inventing the curvature propulsion drive to travel faster than light
+-  You being more cavalier with your life, go on the first expedition to alpha century
+-  centauri*
+-  with the quirk of super luminal space, you still take 4 years in sub luminal time to reach alpha centauri, although its only 2 months for you.
+-  Your test is a success but there is no supplies yet
+-  so you journey back, and build a bigger station and ship for the first wave of settlers
+-  you settle in proxima centauri 1000 years after the generation ship left
+-  the generation ship arrives 80000 years later to see a functioning planet with humans
+-  though at this point they find it hard to communicate and their social structures have diverged enough that it ended in the massacre of the entire population of the generation ship in the incident known as the red landing
+-  You continue for a while, spening a few thousand years on a planet until most of the galaxy is colonized
+-  you realize that in all the human sphere its all the same things repeating over and over
+-  and you get bored of a new planet too quickly
+-  you spend a few thousand years senseless trying out all manner of addictive substances but never find anything that excites you
+-  eventually you decide its time
+-  and clicking confirm five times in five thousand years, you end your own life
