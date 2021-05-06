@@ -1,7 +1,7 @@
 ----
 layout: post
 title:  "Telekinesis"
-date:   2019-12-11 00:00:00 +0530
+date:   2021-05-02 00:00:00 +0530
 categories: story
 ----
 
