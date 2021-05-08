@@ -1,6 +1,0 @@
-#!/bin/bash
-cd "$( dirname "${BASH_SOURCE[0]}" )"
-git add .
-git commit -m "add blog entry"
-git push
-

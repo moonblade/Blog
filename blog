@@ -4,7 +4,28 @@
 #
 # author: andreasl
 
-post_title="$*"
+post_title=""
+save="false"
+
+POSITIONAL=()
+while [[ $# -gt 0 ]]
+do
+key="$1"
+
+case $key in
+    -s|--save)
+    save="true"
+    shift # past value
+    ;;
+    *)    # unknown option
+    POSITIONAL+=("$1") # save it in an array for later
+    post_title+=$key
+    shift # past argument
+    ;;
+esac
+done
+set -- "${POSITIONAL[@]}" # restore positional parameters
+
 [ -z "$post_title" ] && printf 'Error: Script needs a post title.\n' && exit 1
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
@@ -30,3 +51,10 @@ printf -- "${front_matter}" > "${post_path}"
 printf -- '%s\n' "${post_path}"
 cd -
 vim "${post_path}"
+
+if [ "$save" == "true" ]
+then
+  git add .
+  git commit -m "add blog entry"
+  git push
+fi
