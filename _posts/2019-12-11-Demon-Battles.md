@@ -2,7 +2,7 @@
 layout: post
 title:  "Demon battles"
 date:   2019-12-11 00:00:00 +0530
-categories: bsdiary
+tags: bsdiary
 ---
 The procedure to vanquish a demon is a subtle one. Wrought with complexities, not everyone is able to complete their mission and some even die trying. It’s always advisable to take a demon expert in the quest with you, or, if you have the means, to try the co-op version.
 

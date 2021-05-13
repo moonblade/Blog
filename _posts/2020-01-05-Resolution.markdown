@@ -2,7 +2,7 @@
 layout: post
 title:  "Resolution"
 date:   2020-01-05 00:00:00 +0530
-categories: bsdiary
+tags: bsdiary
 ---
 Sometimes we makes promises to ourself, ideas that our dull witted minds come up with, that may improve our life. But the fact that we know that we won’t fulfil those promises, doesn’t seem to enter our minds, particularly during the turn of a new year.
 

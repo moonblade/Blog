@@ -2,7 +2,7 @@
 layout: post
 title:  "Telekinesis"
 date:   2021-05-02 00:00:00 +0530
-categories: story
+tags: story
 ---
 
 - Want to go down this road? I'll tell you my imaginary journey with telekinesis
