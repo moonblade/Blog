@@ -41,7 +41,7 @@ IFS= read -r -d '' front_matter << EOF
 layout: post
 title: "${*}"
 date: ${post_date} 00:00:00 +0530
-categories: bsdiary
+tags: bsdiary
 ---
 
 EOF
