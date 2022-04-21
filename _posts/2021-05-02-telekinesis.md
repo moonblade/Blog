@@ -5,6 +5,10 @@ date:   2021-05-02 00:00:00 +0530
 tags: story
 ---
 
+> Had an idea about a person getting power and then how far they can push it, started writing one or two chapters for a novel length content for this, but then got bored of it, got reminded of it by a friend asking about what power I'd want, so gave them the cliffnotes version 
+
+---
+
 - Want to go down this road? I'll tell you my imaginary journey with telekinesis
 - the one thats too shitty to write
 - so one day I get powers

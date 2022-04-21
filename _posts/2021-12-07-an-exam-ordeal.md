@@ -5,6 +5,9 @@ date: 2021-12-07 00:00:00 +0530
 tags: blog
 ---
 
+> Events during my CKA exam 
+
+---
 
 The two hour long exam is supposed to start from 11.30 till 1.30, and ideally you're allowed to login to the test environment at 11.15. Murphy seems to have been in play today. Instead here's what happened.
 

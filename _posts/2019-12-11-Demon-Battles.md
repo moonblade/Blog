@@ -4,6 +4,11 @@ title:  "Demon battles"
 date:   2019-12-11 00:00:00 +0530
 tags: bsdiary
 ---
+
+> Must have been a tough day, was found as an excerpt from back when I was keeping content in physical book
+
+---
+
 The procedure to vanquish a demon is a subtle one. Wrought with complexities, not everyone is able to complete their mission and some even die trying. It’s always advisable to take a demon expert in the quest with you, or, if you have the means, to try the co-op version.
 
 We begin with the hardest step there is, Identifying the demon. You’d think it’s easy, considering the fact that, demons have horns, talons, bat like wings, and red skin to boot. But since their survival depends on being hidden, they have excellent camouflage techniques. The demon maybe threatening the collapse of an entire region, and yet you might find no trace of the actual demon. So how do you do it?

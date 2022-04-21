@@ -4,6 +4,11 @@ title: "A boring lucidity"
 date: 2021-12-18 00:00:00 +0530
 tags: blog
 ---
+
+> A dream I had where I was finally able to control it and be lucid through the whole thing
+
+---
+
 I was talking to a friend of mine, she was crying tears of joy over some specific thing, I noticed something odd about it, that the tears, even though were touching her face, was still perfectly spherical. Huh that's weird. So I stood up and took a good hard look around myself, it was a nondescript living room originally, but when I looked I could see that it was the my living room. I saw a small teapoy in front of me, and acting on the impulse, I climbed onto it, pulled my friend onto it and we danced on the teapoy, full proper dance with three steps to the right and to the left, and we never fell down. And thus I realized I was in a lucid dream.
 
 I felt I needed to hurry, since normally I'd get kicked out of lucidity within seconds, but I felt no immediate pressure and found that I was actually, truly, fully lucid dreaming without an immediate time pressure. Ecstatic, I made my way forwards and looked around the room. The amazon echo we used to have in the living room was replaced by a linux node, it had the voice of jarvis and was way better at parsing commands and continuing conversations. 

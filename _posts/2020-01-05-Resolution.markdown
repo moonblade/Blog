@@ -4,6 +4,11 @@ title:  "Resolution"
 date:   2020-01-05 00:00:00 +0530
 tags: bsdiary
 ---
+
+> Had made some goals and some system level changes for the year, since the year ended up being one long groundhog day, forgot all about all of it anyway
+
+---
+
 Sometimes we makes promises to ourself, ideas that our dull witted minds come up with, that may improve our life. But the fact that we know that we won’t fulfil those promises, doesn’t seem to enter our minds, particularly during the turn of a new year.
 
 Some people do try harder though, and its commendable how long they keep at it, despite knowing its a losing battle. For lasting changes, habits relying on your willpower aren’t the ones that should be targeted for change, but instead systems are. A system can be changed so that your way of thinking about, or going about a particular action changes, which results in a tiny (note that it has to be tiny, it can’t be so huge, that it inevitably relies on willpower as well) change, that can be reproduced consistently.
