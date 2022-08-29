@@ -5,7 +5,9 @@ date: 2022-08-29 00:00:00 +0530
 tags: bsdiary
 ---
 
-# Observations from a fly on the wall
+> Observations from a fly on the wall
+
+---
 
 Humans say a lot of stuff, and do something else, what a person is to an outside observer could be summed up as their actions. But to ourselves, each action has a trail of reasons, circustances, and exceptions trailing behind it. 
 Muddling through our day to day life, our actions sing a duet called interaction, changing us in subtle ways too slow to notice. Over the course of time, we are molded without our ever realizing it. 
