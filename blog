@@ -50,7 +50,7 @@ printf -- "${front_matter}" > "${post_path}"
 
 printf -- '%s\n' "${post_path}"
 cd -
-vim "${post_path}"
+nvim "${post_path}"
 
 if [ "$save" == "true" ]
 then
